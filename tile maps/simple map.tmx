@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" name="Roguelike" tilewidth="16" tileheight="16" spacing="1" tilecount="1767" columns="57">
+  <image source="../GunDropEmpire/Assets/images/roguelike pack/Spritesheet/roguelikeSheet_transparent.png" width="968" height="526"/>
+ </tileset>
+ <layer id="1" name="Ground/terrain" width="100" height="100" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJzt100KwjAQgNGA1kOptZfy5/pGEKyhdiXOYN7i7Qc+ZkKmUsoEAAAAAAD8pV0jep6etS000QM9svnUQY9cXaLn6d2m2jaGBHP16liNjVOCuXrR7sNZj1BL+6CHHuiRzePtWHov9Iixthv76vp0SzBrD9Z62Im8PfzVf+NSXjfpUN5vlRsVa74rblW8+a7YDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4njvz4JUG
+  </data>
+ </layer>
+ <layer id="2" name="Ground overlay" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+ <layer id="3" name="Objects" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>
