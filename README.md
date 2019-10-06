@@ -20,7 +20,8 @@ Core game idea is to have the player be a wizard/baker that can summon canday un
 ## Credits
 
 ### Assets
-Kenney.nl - https://opengameart.org/content/roguelikerpg-pack-1700-tiles
+Kenney.nl   - https://opengameart.org/content/roguelikerpg-pack-1700-tiles
+elthen      - https://elthen.itch.io/2d-pixel-art-slime-sprites
 
 ### Music
 
